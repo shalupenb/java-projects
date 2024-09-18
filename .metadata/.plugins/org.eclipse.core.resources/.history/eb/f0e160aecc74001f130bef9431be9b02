@@ -1,0 +1,12 @@
+package com.shalupenb.firstjavaproj;
+
+import java.util.Iterator;
+
+public class Program {
+
+	public static void main(String[] args) {
+		System.out.println("hello naprimer!"); //TODO Refactoring
+		System.out.println();
+	}
+
+}
