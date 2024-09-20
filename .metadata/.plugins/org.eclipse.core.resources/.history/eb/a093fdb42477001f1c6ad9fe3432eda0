@@ -1,5 +1,6 @@
 package com.shalupenb.firstjavaproj;
 
+import java.util.*;
 import com.shalupenb.firstjavaproj.model.Cat;
 
 public class Program {
@@ -17,8 +18,7 @@ public class Program {
 		//	break;
 		//}
 		Cat c = new Cat();
-		c.setName("kitten");
-		System.out.println(c.getName());
+		System.out.println("test");
 	}
 
 }

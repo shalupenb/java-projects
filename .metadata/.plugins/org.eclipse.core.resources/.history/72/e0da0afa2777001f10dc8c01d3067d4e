@@ -1,5 +1,6 @@
 package com.shalupenb.firstjavaproj;
 
+import java.util.*;
 import com.shalupenb.firstjavaproj.model.Cat;
 
 public class Program {

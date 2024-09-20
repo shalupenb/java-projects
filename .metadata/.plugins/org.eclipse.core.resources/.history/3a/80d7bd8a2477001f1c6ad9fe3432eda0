@@ -1,0 +1,5 @@
+package com.shalupenb.firstjavaproj.model;
+
+public class Cat {
+	
+}

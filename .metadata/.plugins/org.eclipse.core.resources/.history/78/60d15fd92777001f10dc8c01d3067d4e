@@ -1,0 +1,17 @@
+package com.shalupenb.firstjavaproj.model;
+
+import lombok.AccessLevel;
+import lombok.Getter;
+import lombok.Setter;
+
+public class Cat {
+	private String name;
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public String getName() {
+		return name;
+	}
+}

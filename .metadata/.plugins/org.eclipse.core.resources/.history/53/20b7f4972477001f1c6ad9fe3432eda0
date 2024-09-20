@@ -1,0 +1,13 @@
+package com.shalupenb.firstjavaproj.model;
+
+public class Cat {
+	String name;
+	
+	void name(String name) {
+		this.name = name;
+	}
+	
+	String name() {
+		return name;
+	}
+}
